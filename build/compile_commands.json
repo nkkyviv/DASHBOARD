@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/server/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/server.dir/server/desktop/main.cpp.o -c /home/vivian/Desktop/av22tr-team-b/server/desktop/main.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/server/desktop/main.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/server/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/server.dir/server/desktop/src/window.cpp.o -c /home/vivian/Desktop/av22tr-team-b/server/desktop/src/window.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/server/desktop/src/window.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/server/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/server.dir/server/desktop/src/comservice.cpp.o -c /home/vivian/Desktop/av22tr-team-b/server/desktop/src/comservice.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/server/desktop/src/comservice.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/server/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/server.dir/server/desktop/src/tcpservice.cpp.o -c /home/vivian/Desktop/av22tr-team-b/server/desktop/src/tcpservice.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/server/desktop/src/tcpservice.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/client/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtMultimedia -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtNetwork -g -fPIC -std=gnu++17 -o CMakeFiles/client.dir/client/desktop/main.cpp.o -c /home/vivian/Desktop/av22tr-team-b/client/desktop/main.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/client/desktop/main.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/client/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtMultimedia -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtNetwork -g -fPIC -std=gnu++17 -o CMakeFiles/client.dir/client/desktop/src/window.cpp.o -c /home/vivian/Desktop/av22tr-team-b/client/desktop/src/window.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/client/desktop/src/window.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/client/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtMultimedia -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtNetwork -g -fPIC -std=gnu++17 -o CMakeFiles/client.dir/client/desktop/src/canvas.cpp.o -c /home/vivian/Desktop/av22tr-team-b/client/desktop/src/canvas.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/client/desktop/src/canvas.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/client/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtMultimedia -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtNetwork -g -fPIC -std=gnu++17 -o CMakeFiles/client.dir/client/desktop/src/comservice.cpp.o -c /home/vivian/Desktop/av22tr-team-b/client/desktop/src/comservice.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/client/desktop/src/comservice.cpp"
+},
+{
+  "directory": "/home/vivian/Desktop/av22tr-team-b/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/vivian/Desktop/av22tr-team-b/shared -I/home/vivian/Desktop/av22tr-team-b/client/desktop/include -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtCore -isystem /home/vivian/Qt/6.5.2/gcc_64/include -isystem /home/vivian/Qt/6.5.2/gcc_64/mkspecs/linux-g++ -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtWidgets -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtGui -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtMultimedia -isystem /home/vivian/Qt/6.5.2/gcc_64/include/QtNetwork -g -fPIC -std=gnu++17 -o CMakeFiles/client.dir/client/desktop/src/tcpservice.cpp.o -c /home/vivian/Desktop/av22tr-team-b/client/desktop/src/tcpservice.cpp",
+  "file": "/home/vivian/Desktop/av22tr-team-b/client/desktop/src/tcpservice.cpp"
+}
+]

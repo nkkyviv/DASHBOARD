@@ -1,0 +1,6 @@
+/home/vivian/Desktop/av22tr-team-b/build/CMakeFiles/server.dir
+/home/vivian/Desktop/av22tr-team-b/build/CMakeFiles/client.dir
+/home/vivian/Desktop/av22tr-team-b/build/CMakeFiles/upload_client.dir
+/home/vivian/Desktop/av22tr-team-b/build/CMakeFiles/upload_server.dir
+/home/vivian/Desktop/av22tr-team-b/build/CMakeFiles/edit_cache.dir
+/home/vivian/Desktop/av22tr-team-b/build/CMakeFiles/rebuild_cache.dir
